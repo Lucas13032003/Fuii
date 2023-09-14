@@ -1,7 +1,7 @@
-# Fuui: Aplicativo de Caronas Universitárias 🚙🚙
+# 🚙 Fuui: Aplicativo de Caronas Universitárias 🚙
 
 ## Visão Geral
-
+ 
 O Fuui é um aplicativo de caronas universitárias desenvolvido como projeto acadêmico na Universidade de Brasília (UnB). Ele foi criado para atender às necessidades de transporte dos estudantes, oferecendo uma solução conveniente, econômica e sustentável para compartilhar caronas entre a comunidade universitária.
 
 ## Recursos Principais
