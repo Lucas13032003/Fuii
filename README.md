@@ -30,8 +30,7 @@ O Fuui é um projeto acadêmico em constante desenvolvimento. Se você deseja co
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE), o que significa que você pode usá-lo livremente, modificar e distribuir conforme suas necessidades.
 ## Equipe
-  <td align="center"><a href="https://github.com/Lucas13032003"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/120221548?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Victor</b></sub></a><br />
-   <td align="center"><a href="https://github.com/LucasOliveiraDiasMarquesFerreira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100947807?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Oliveira</b></sub></a><br />
+  <td align="center"><a href="https://github.com/Lucas13032003"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/120221548?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Victor</b></sub></a><br /> 
 
 ## Contato
 
