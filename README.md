@@ -12,7 +12,7 @@ O Fuui é um aplicativo de caronas universitárias desenvolvido como projeto aca
 
 - **Sustentabilidade**: Ao promover o compartilhamento de caronas, o Fuui contribui para a redução das emissões de carbono e promove a sustentabilidade ambiental.
 
-## Como Usar
+## Funcionalidades esperadas:
 
 1. **Cadastro**: Os estudantes podem se cadastrar no Fuui usando seu endereço de e-mail da universidade.
 
